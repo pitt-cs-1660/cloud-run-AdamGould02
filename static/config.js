@@ -14,6 +14,6 @@
  * @type {{apiKey: string, authDomain: string}}
  */
 const config = {
-  apiKey: "",
+  apiKey: "AIzaSyDk-dTxAlbgt83xr07UFnxURmSKt1jcg8o",
   authDomain: "cs1660-tabs-vs-spaces-454019.firebaseapp.com"
 };
